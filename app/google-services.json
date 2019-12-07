@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "577219431965",
+    "firebase_url": "https://csunplugged-a703d.firebaseio.com",
+    "project_id": "csunplugged-a703d",
+    "storage_bucket": "csunplugged-a703d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577219431965:android:3e689d820bc370aa2a40f4",
+        "android_client_info": {
+          "package_name": "com.example.owais.csunplugged"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577219431965-c6o5h1um8hpv4bf7ad71tq7lgu6du9r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.owais.csunplugged",
+            "certificate_hash": "ab55ad228735713ca16974390a834c5c0446f066"
+          }
+        },
+        {
+          "client_id": "577219431965-7j3qbn9m0cegth93tvbbb66qu9mfh2ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8PU0iCJ1Fz5u3jrrt_yZWkONBU28wjn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577219431965-7j3qbn9m0cegth93tvbbb66qu9mfh2ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
